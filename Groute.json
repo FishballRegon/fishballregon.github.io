@@ -274,5 +274,21 @@
     "halfpriceY1": "5.8",
     "priceY2": "5.3",
     "halfpriceY2": "2.7"
+  },
+  {
+    "number": 20,
+    "route": "23KMB",
+    "destZ": "觀塘碼頭",
+    "destY": "觀塘碼頭",
+    "maxPZ": "2",
+    "priceZ1": "4.8",
+    "halfpriceZ1": "2.4",
+    "priceZ2": "4.8",
+    "halfpriceZ2": "2.4",
+    "maxPY": "2",
+    "priceY1": "4.8",
+    "halfpriceY1": "2.4",
+    "priceY2": "4.8",
+    "halfpriceY2": "2.4"
   }
 ]
