@@ -1,0 +1,86 @@
+[
+  {
+    "route": "240",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "yes",
+    "ChiTime": 5,
+    "Eng": "yefs",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+  {
+    "route": "2400",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "gggg",
+    "ChiTime": 5,
+    "Eng": "fsdf",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+},
+ {
+   "route": "240",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "gggdg",
+    "ChiTime": 5,
+    "Eng": "fsddf",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+},
+ {
+   "route": "240",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "ggweedfgdg",
+    "ChiTime": 5,
+    "Eng": "fsfsddfsddf",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+},
+ {
+   "route": "240",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "ggdadasgdg",
+    "ChiTime": 5,
+    "Eng": "fsddsaasddf",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+},
+ {
+   "route": "240",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "gggdg",
+    "ChiTime": 5,
+    "Eng": "fsddf",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+},
+ {
+   "route": "240",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "gfdfdsdsfdggdg",
+    "ChiTime": 5,
+    "Eng": "fsdfxfvxsfssdf",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  }
+] 
