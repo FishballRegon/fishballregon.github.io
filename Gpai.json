@@ -481,20 +481,19 @@
     "number": 45,
     "route": "23YT",
     "front": 1,
-    "frontid1": "rbxassetid://7678216109",
-    "controllerid1": "rbxassetid://7678538565",
-    "side": 2,
-    "sideid1": "rbxassetid://7926613816",
-    "sideid2": "rbxassetid://7678215306"
+    "frontid1": "rbxassetid://8421227710",
+    "controllerid1": "rbxassetid://8421271034",
+    "side": 1,
+    "sideid1": "rbxassetid://8421214996"
   },
   {
     "number": 46,
     "route": "23ZT",
     "front": 1,
-    "frontid1": "rbxassetid://7625408947",
-    "controllerid1": "rbxassetid://7677812680",
+    "frontid1": "rbxassetid://8421224203",
+    "controllerid1": "rbxassetid://8421273884",
     "side": 1,
-    "sideid1": "rbxassetid://7926616601"
+    "sideid1": "rbxassetid://8421218828"
   },
   {
   }
